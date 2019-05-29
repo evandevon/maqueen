@@ -1,7 +1,7 @@
 {
     "name": "maqueen",
     "version": "0.0.1",
-    "description": "Affordable mini robot designed by DFRobot",
+    "description": "Affordable mini robot designed by DFRobot - Modified by evandevon to turn off serial sonar dump",
     "license": "MIT",
     "dependencies": {
         "core": "*"
